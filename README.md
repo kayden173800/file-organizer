@@ -26,7 +26,7 @@ A beginner Python automation project that automatically organizes files inside t
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/file-organizer.git
+git clone https://github.com/kayden173800/file-organizer.git
 ```
 
 2. Open the project folder
